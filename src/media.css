@@ -1,0 +1,239 @@
+@media only screen and (max-width: 1132px){
+    .App_container__P1A3O {
+        width: 90%;
+    }
+    .App_parentHeader__y7fQ5 {
+        width: 85%;
+    }
+    .App_cardTechnology__O\+m-5 {
+        grid-template-columns: auto auto auto;
+    }
+    .App_lineAdvantages__hWZz2  {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1097px) {
+    .App_parentHeader__y7fQ5 nav .App_menuHeder__EbQiQ {
+        display: none;
+    }
+
+    .App_hamburgerMenu__rKCSj {
+        display: block;
+    }
+    .App_contentTelephone__ZIFSq {
+        transform: translateX(-150%);
+    }
+    .App_parentDivForSectionWithBackground__vQTY3 h1 {
+        width: 100%;
+        margin-bottom: 180px;
+    }
+    .App_inputZone__Jke6U {
+        left: 25%;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    .App_contentTelephone__ZIFSq {
+        transform: translateX(-130%);
+    }
+    .App_ItemCardAdvantages__O\+Enc p {
+        font-size: 15px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 800px 0 700px 0;
+    }
+}
+@media only screen and (max-width: 950px) {
+    .App_topContentFooter__\+QdHi {
+        grid-template-columns: auto auto auto;
+        row-gap: 25px;
+    }
+    .App_asfaltblago__Gid09 a {
+        font-size: 12px;
+    }
+    .App_lastTextFooter__rrv-y a {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 923px) {
+    .App_contentTelephone__ZIFSq {
+        transform: translateX(-110%);
+    }
+    .App_cardTechnology__O\+m-5 {
+        grid-template-columns: auto auto;
+        justify-content: center;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 700px 0 600px 0;
+    }
+}
+@media only screen and (max-width: 827px) {
+    .App_inputZone__Jke6U {
+        left: 15%;
+    }
+    .App_contentTelephone__ZIFSq {
+        transform: translateX(-100%);
+    }
+    .App_LogoBlockHeader__htgY4 img {
+        width: 126px;
+    }
+    .App_parentHeader__y7fQ5 {
+        width: 83%;
+        padding: 15px 30px;
+    }
+    .App_cardsAdvantages__ioOXv {
+        flex-wrap: wrap;
+        row-gap: 15px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 650px 0 500px 0;
+    }
+}
+@media only screen and (max-width: 794px) {
+    .App_lastTextFooter__rrv-y {
+        display:grid ;
+        grid-template-columns: auto auto;
+    }
+}
+
+@media only screen and (max-width: 751px) {
+    .App_contentTelephone__ZIFSq {
+        display: none;
+    }
+    .App_hamburgerMenu__rKCSj .App_telContent__SkudL {
+        display: flex;
+        padding-left: 20px;
+        padding-top: 15px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 600px 0 450px 0;
+    }
+    .App_faqContainer__p34C5 {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 710px) {
+    .App_menuBox__RwjMo details ul {
+        width: 266px;
+    }   
+    .App_imagesCategory__2lg6o {
+        grid-template-columns: auto;
+        height: auto;
+    }
+}
+@media only screen and (max-width: 694px) {
+    .App_dropdownInfoBlack__irN1B .App_summary__9xgGE p{
+        font-size: 13px
+    }
+    .App_forrightborder__IXu5S {
+        width: 132px;
+    }
+    .App_forFlexMailAndLocation__EWA6r a {
+        font-size: 11px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 550px 0 400px 0;
+    }
+}
+@media only screen and (max-width: 649px) {
+    .App_cardsAdvantages__ioOXv {
+        flex-direction: column;
+        align-items: center;
+    }
+    .App_topContentFooter__\+QdHi {
+        grid-template-columns: auto auto;
+    }
+}
+@media only screen and (max-width: 627px) {
+    .App_parentHeader__y7fQ5 {
+        width: 81%;
+    }
+    .App_inputZone__Jke6U {
+        left: 5%;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 500px 0 350px 0;
+    }
+}
+@media only screen and (max-width: 595px) {
+    .App_cardTechnology__O\+m-5 {
+        grid-template-columns: auto;
+    }
+    .App_lastTextFooter__rrv-y {
+        display:grid ;
+        grid-template-columns: auto;
+    }
+    .App_contentBottomFooter__-LWff {
+        flex-direction: column-reverse;
+        align-items: start;
+    }
+    .App_lastTextFooter__rrv-y a:nth-child(2) {
+        border: none;
+        padding: 0;
+    }
+}
+@media only screen and (max-width: 567px) {
+    .App_parentContentInfo__uKFEL {
+        align-items: start;
+        flex-direction: column-reverse;
+    }
+    .App_contentInfo__ix1FJ {
+        padding: 20px 0 100px 0;
+    }
+    .App_parentHeader__y7fQ5 {
+        top: 90px;
+    }
+    .App_parentHeader__y7fQ5 {
+        width: 79%;
+    }
+    .App_inputZone__Jke6U {
+        width: 75%;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 450px 0 300px 0;
+    }
+}
+@media only screen and (max-width: 519px) {
+    .App_menuBox__RwjMo details ul {
+        width: 240px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 400px 0 250px 0;
+    }
+}
+@media only screen and (max-width: 457px) {
+    .App_parentHeader__y7fQ5 {
+        width: 77%;
+    }
+    .App_parentDivForSectionWithBackground__vQTY3 h1 {
+        font-size: 24px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 350px 0 200px 0;
+    }
+}
+@media only screen and (max-width: 397px) {
+    .App_parentHeader__y7fQ5 {
+        width: 73%;
+    }
+    .App_parentDivForSectionWithBackground__vQTY3 h1 {
+        font-size: 20px;
+    }
+    .App_images__-swo5 {
+        flex-direction: column;
+        padding: 300px 0 150px 0;
+    }
+    .App_topContentFooter__\+QdHi {
+        display: flex;
+        flex-direction: column-reverse;
+        row-gap: 25px;
+    }
+}
